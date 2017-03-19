@@ -4,7 +4,7 @@ body{
 }
 
 .go-to-top:hover {
-  cursor: move;
+  cursor: pointer;
 }
 
 .navbar {
